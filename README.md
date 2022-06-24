@@ -15,5 +15,5 @@ If you are not providing second parameter it will take "debug" by default
 Kelompok 3 :
 - Falia Aufa
 - Rere Chintya
-- Alya Ghaitsha
+- Alya Ghaitsa
 - Fauzan Reza
