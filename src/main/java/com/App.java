@@ -3,7 +3,7 @@ package com;
 import java.util.HashMap;
 import java.util.Map;
 
-import org.apache.log5j.Logger;
+import org.apache.log4j.Logger;
 import org.apache.log4j.PropertyConfigurator;
 import org.apache.log4j.helpers.Loader;
 
