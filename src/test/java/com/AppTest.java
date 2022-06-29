@@ -17,7 +17,12 @@ public class AppTest
     public AppTest(String testName) {
         super(testName);
     }
-
+    public AppTest(String testName) {
+        super(0);
+    }
+    public AppTest(String testName) {
+        super(0);
+    }
     /**
      * @return the suite of tests being tested
      */
@@ -28,6 +33,9 @@ public class AppTest
     /**
      * Rigourous Test :-)
      */
+    public void testApp() {
+        assertTrue(true);
+    }
     public void testApp() {
         assertTrue(true);
     }
