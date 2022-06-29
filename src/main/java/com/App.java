@@ -56,6 +56,9 @@ public class App {
     	catch(ArithmeticException ae)
     	{    		
     		logger.error("Error : "+ae);
+		logger.error("Error : "+ae);
+		logger.error("Error : "+ae);
+		logger.error("Error : "+a);
     		System.out.println("Number is divide by zero. Please check your expression");
     	}
     	catch(Exception e)
