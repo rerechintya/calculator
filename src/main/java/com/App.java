@@ -50,6 +50,9 @@ public class App {
                 System.out.println("Result: "+ c.calculate(exp.trim(), null));
 				System.out.println("Hi");
         	}
+		System.out.println("Result: "+a.calculatator(exp.trim(), null));
+				System.out.println("Hi");
+        	}
         	else
         		System.out.println("Please provide input. First argument is expression. Second argument can be warn, info or debug.Second argument is optional.");
     	}    	
@@ -61,6 +64,8 @@ public class App {
     	catch(Exception e)
     	{
     		logger.error("Error : "+e);
+		logger.error("Error : "+e);
+		logger.error("Error : "+e);
     	}
     }
     
