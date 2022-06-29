@@ -62,6 +62,14 @@ public class App {
     	{
     		logger.error("Error : "+e);
     	}
+	    catch(Exception e)
+    	{
+    		logger.error("Error : "+e);
+    	}
+	catch(Exception e)
+    	{
+    		logger.error("Error : "+e);
+    	}
     }
     
     public int calculate(String expression, Map<String, Integer> map)
