@@ -17,6 +17,12 @@ public class AppTest
     public AppTest(String testName) {
         super(testName);
     }
+    public AppTest(String testName) {
+        super(testName);
+    }
+    public AppTest(String testName) {
+        super(Test);
+    }
 
     /**
      * @return the suite of tests being tested
