@@ -3,8 +3,8 @@
   <modelVersion>4.0.0</modelVersion>
   <groupId>com</groupId>
   <artifactId>calculator</artifactId>
-  <packaging>jar</packaging>
   <version>1.1-SNAPSHOT</version>
+  <packaging>jar</packaging>
   <name>calculator</name>
   <url>http://maven.apache.org</url>
   <dependencies>
@@ -84,7 +84,7 @@
   <distributionManagement>
     <repository>
       <id>github</id>
-      <name>GitHub rerechintya Apache Maven Packages</name>
+      <name>GitHub Packages</name>
       <url>https://maven.pkg.github.com/rerechintya/calculator</url>
     </repository>
   </distributionManagement>
